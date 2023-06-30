@@ -1,0 +1,13 @@
+.menu__link{
+    text-decoration: none;
+    color:#808080;
+}
+
+.activo{
+    color: #333333
+}
+
+.menu__link:hover{
+    border:1px solid #000;
+    padding:.1rem;
+}
